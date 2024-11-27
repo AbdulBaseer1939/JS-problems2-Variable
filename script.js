@@ -27,3 +27,7 @@ alert(pizza);
 // problem#6: Declare a variable called email and assign to it a string that represents your Email Address(e.g. example@example.com). Show the blow mentioned message in an alert box.(Hint: use string concatenation) 
 var email = "example@example.com";
 alert("Your Email Address is: " + email);
+
+// problem#7: Declare a variable called book & give it the value “A smarter way to learn JavaScript”. Display the following message in an alert box:
+var book = "A smarter way to learn JavaScript";
+alert("You are reading: " + book);
