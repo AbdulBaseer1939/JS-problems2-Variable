@@ -31,3 +31,6 @@ alert("Your Email Address is: " + email);
 // problem#7: Declare a variable called book & give it the value “A smarter way to learn JavaScript”. Display the following message in an alert box:
 var book = "A smarter way to learn JavaScript";
 alert("You are reading: " + book);
+
+// problem#8: Write a script to display this in browser through JS 
+document.write("Yah! I can write HTML content through JavaScript");
