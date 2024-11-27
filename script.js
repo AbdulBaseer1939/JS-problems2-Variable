@@ -34,3 +34,8 @@ alert("You are reading: " + book);
 
 // problem#8: Write a script to display this in browser through JS 
 document.write("Yah! I can write HTML content through JavaScript");
+
+// problem#9:  Store following string in a variable and show in alert and browser through JS “▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬” 
+var string = "▬▬▬ஜ۩۞۩ஜ▬▬▬";
+alert(string);
+document.write(string);
